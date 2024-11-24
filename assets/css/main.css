@@ -1552,7 +1552,7 @@ body.is-touch .main {
     padding: 6em 15px 6em 15px;
   }
 
-  .main.style4:before,
+  /* .main.style4:before,
   .main.style4:after,
   .main.style2:before,
   .main.style2:after {
@@ -1562,7 +1562,7 @@ body.is-touch .main {
   .main.style4 .button.anchored,
   .main.style2 .button.anchored {
     display: none;
-  }
+  } */
 
   .main.style4 .content,
   .main.style2 .content {
